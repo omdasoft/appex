@@ -1,0 +1,51 @@
+body {
+    direction:ltr;
+}
+.language{
+    position: absolute;
+    top: 15px;
+    left: 100px;
+    z-index: 9999;
+  }
+  blockquote{
+      text-align: left;
+  }
+  form,label{
+    text-align: left;
+}
+ul li {
+    text-align: left;
+    line-height: 2em;
+}
+.award .card-body h6{
+    text-align: left;
+}
+.card-body table{
+    text-align: left;
+}
+  .elkevent-nav nav .navbar-nav .nav-item a {
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #030b2d;
+    padding-left: 0;
+    padding-right: 15px;
+    padding-top: 0;
+
+    padding-bottom: 0;
+    margin:0 !important;
+}
+  .about-content h2 {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+.pricing-table-box .title {
+    font-size: 20px;
+}
+.pricing-table-box h6 {
+    font-size: 13px;
+}
+.pricing-table-box .pricing-content{
+    padding: 20px;
+}
